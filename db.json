@@ -1,0 +1,101 @@
+{
+  "perizinan":
+  [
+        {
+            "num": 1,
+            "kode_izin": "222",
+            "nama_jns_ijin": "Izin Penyelenggaraan Reklame Insidentil_",
+            "nama_layanan": "Perijinan Baru",
+            "resi": "E64E65",
+            "nama_pemohon": "qiqi m",
+            "nama_perusahaan": "CV. CSA Media Promosi",
+            "bertindak_atas_nama": "CV. CSA Media Promosi",
+            "naskah_reklame": "Bisa Titip Jastip Diskon s/d 30Rb",
+            "jenis_reklame_id": "5",
+            "jenis_reklame_nama": "Balon",
+            "pasang_reklame_id": "2",
+            "pasang_reklame_nama": "Halaman (Persil)",
+            "tipe_reklame": "Non Alkohol/Rokok",
+            "jalan_reklame": [
+                {
+                    "no": 1,
+                    "panjang_reklame": "1480",
+                    "lebar_reklame": "2,5 meter",
+                    "jumlah_reklame": "1",
+                    "jalan_reklame": "Pelajar Pejuang 45",
+                    "fungsi_ruang": "Umum",
+                    "fungsi_jalan": "Arteri Sekunder",
+                    "status_jalan": "Provinsi",
+                    "sudut_pandang": "2"
+                }
+            ],
+            "masa_pasang_hari": "30",
+            "awal_pasang": "21-02-2022",
+            "pasang_akhir": "20-03-2022"
+        },
+        {
+            "num": 1,
+            "kode_izin": "222",
+            "nama_jns_ijin": "Izin Penyelenggaraan Reklame Insidentil_",
+            "nama_layanan": "Perijinan Baru",
+            "resi": "E22234",
+            "nama_pemohon": "qiqi m",
+            "nama_perusahaan": "CV. CSA Media Promosi",
+            "bertindak_atas_nama": "CV. CSA Media Promosi",
+            "naskah_reklame": "Bisa Titip Jastip Diskon s/d 30Rb",
+            "jenis_reklame_id": "5",
+            "jenis_reklame_nama": "Balon",
+            "pasang_reklame_id": "2",
+            "pasang_reklame_nama": "Halaman (Persil)",
+            "tipe_reklame": "Non Alkohol/Rokok",
+            "jalan_reklame": [
+                {
+                    "no": 1,
+                    "panjang_reklame": "1480",
+                    "lebar_reklame": "2,5 meter",
+                    "jumlah_reklame": "1",
+                    "jalan_reklame": "Pelajar Pejuang 45",
+                    "fungsi_ruang": "Umum",
+                    "fungsi_jalan": "Arteri Sekunder",
+                    "status_jalan": "Provinsi",
+                    "sudut_pandang": "2"
+                }
+            ],
+            "masa_pasang_hari": "30",
+            "awal_pasang": "21-02-2022",
+            "pasang_akhir": "20-03-2022"
+        },
+        {
+            "num": 1,
+            "kode_izin": "222",
+            "nama_jns_ijin": "Izin Penyelenggaraan Reklame Insidentil_",
+            "nama_layanan": "Perijinan Baru",
+            "resi": "666TR",
+            "nama_pemohon": "qiqi m",
+            "nama_perusahaan": "CV. CSA Media Promosi",
+            "bertindak_atas_nama": "CV. CSA Media Promosi",
+            "naskah_reklame": "Bisa Titip Jastip Diskon s/d 30Rb",
+            "jenis_reklame_id": "5",
+            "jenis_reklame_nama": "Balon",
+            "pasang_reklame_id": "2",
+            "pasang_reklame_nama": "Halaman (Persil)",
+            "tipe_reklame": "Non Alkohol/Rokok",
+            "jalan_reklame": [
+                {
+                    "no": 1,
+                    "panjang_reklame": "1480",
+                    "lebar_reklame": "2,5 meter",
+                    "jumlah_reklame": "1",
+                    "jalan_reklame": "Pelajar Pejuang 45",
+                    "fungsi_ruang": "Umum",
+                    "fungsi_jalan": "Arteri Sekunder",
+                    "status_jalan": "Provinsi",
+                    "sudut_pandang": "2"
+                }
+            ],
+            "masa_pasang_hari": "30",
+            "awal_pasang": "21-02-2022",
+            "pasang_akhir": "20-03-2022"
+        }
+    ]
+}
